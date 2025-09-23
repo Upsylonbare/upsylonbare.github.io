@@ -20,7 +20,7 @@ In the search bar, type "Google Auth Platform" and select it.
 Then click on get started in the middle of the page.
 
 <p align="center">
-    <img src="./res/GetStartedGoogleAuth.png" alt="Screenshot of the Google Auth Platform page" width="75%">
+    <img src="/res/GetStartedGoogleAuth.png" alt="Screenshot of the Google Auth Platform page" width="75%">
 </p>
 
 #### 3. Fill in the project configuration.
@@ -49,7 +49,7 @@ Continue.
 #### 4. Create OAuth Client
 
 <p align="center">
-    <img src="./res/CreateAuthClientMetrics.png" alt="Screenshot of the OAuth Client creation page" width="75%">
+    <img src="/res/CreateAuthClientMetrics.png" alt="Screenshot of the OAuth Client creation page" width="75%">
 </p>
 
 Fill in the following fields:
@@ -62,7 +62,7 @@ Create.
 A popup will appear with your Client ID and Client Secret. Copy them somewhere safe or download the JSON file.
 
 <p align="center">
-  <img src="./res/GOAUTHTokens.png" alt="Screenshot of the popup with the Client ID and Client Secret" width="50%">
+  <img src="/res/GOAUTHTokens.png" alt="Screenshot of the popup with the Client ID and Client Secret" width="50%">
 </p>
 
 ### Configure [oama](https://github.com/pdobsan/oama)
@@ -179,7 +179,7 @@ Visit http://localhost:50589/start in your browser ...
 This will open a link in your browser, asking you to authorize oama to access your gmail account.
 
 <p align="center">
-    <img src="./res/GoogleWarning.png" alt="Screenshot of the unverified app warning" width="75%">
+    <img src="/res/GoogleWarning.png" alt="Screenshot of the unverified app warning" width="75%">
 </p>
 You may have a warning about the app not being verified, just click on "Advanced" and then "Go to oama (unsafe)".
 
